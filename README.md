@@ -6,7 +6,7 @@ Neste projeto foi abordado conceitos de estruração do documento HTML como a Ta
 
 ### Segue imagens de como ficou o projeto, contribuições são sempre bem vindas.
 
-![Android-1](https://raw.githubusercontent.com/Henrique-cardozo/ProjetoAndroid/main/imagens-Readme/android1.jpg?token=GHSAT0AAAAAACHU4IVK4JOJHAQVPFS3AKGSZJNYR4A)
+![Imagem Android-1](https://raw.githubusercontent.com/Henrique-cardozo/ProjetoAndroid/main/imagens-Readme/android1.jpg?token=GHSAT0AAAAAACHU4IVK4JOJHAQVPFS3AKGSZJNYR4A)
 
 ![Imagem Android-2](https://raw.githubusercontent.com/Henrique-cardozo/ProjetoAndroid/main/imagens-Readme/android2.jpg?token=GHSAT0AAAAAACHU4IVLOO4ZMYJZPWTFOHVSZJN2PQA)
 
